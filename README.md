@@ -14,6 +14,6 @@ and
 
 ```npm start```
 
-In the future, I may hook the chart up to a price stream using an API, but that would most likely require personal keys, a dot env file, and would not be shared with others (you would not be able to see the price data).  
+In the future, I may hook the chart up to a price stream using an API, but that would most likely require personal keys, a dot env file, and would not be shared with others, so I thought the exercise pointless for now.
 
 
