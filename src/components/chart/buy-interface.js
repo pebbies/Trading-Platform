@@ -62,7 +62,7 @@ const BuyInterface = () => {
       <div className="w-[320px] h-[76px] px-4 flex-col mt-4 text-dark-white">
         <div className="flex justify-between">
           <div>Liquidation Price</div>
-          <div>300,00 USDC</div>
+          <div>300,000 USDC</div>
         </div>
 
         <div className="flex mt-2 justify-between">
